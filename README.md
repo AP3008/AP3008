@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋 My name is Adam!</h2>
 <h3 align="left">I am an undergraduate student at Western University studying Computer Science!</h3>
-<p>I am planning on using GitHub a lot more now so follow my progress!</p>
+<p>I am planning on using GitHub a lot more now, so follow my progress!</p>
 
 ###
 
