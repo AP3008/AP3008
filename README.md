@@ -1,3 +1,4 @@
+<h1>Hi 👋 I'm Adam</h1>
 <p align="center">
   <a href="https://ap3008.dev" target="_blank">
     <img
@@ -16,4 +17,5 @@
       alt="Website Visit"
     />
   </a>
+  <p>Future 10,000x Engineer</p>
 </p>
