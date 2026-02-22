@@ -1,4 +1,5 @@
-<a href="https://ap3008.dev" target="_blank">
+<div align="center">
+  <a href="https://ap3008.dev" target="_blank">
     <img src="./assets/readme_wallpaper.png" alt="Adam's Wallpaper" width="310" align="center" />
     
     <img src="https://github-readme-stats.vercel.app/api?username=ap3008&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=ebbcba&icon_color=31748f&bg_color=191724&title_color=ebbcba&disable_animations=true&hide=stars,prs,issues,contribs" alt="GitHub Stats" />
