@@ -1,15 +1,20 @@
-<h1>Hi 👋 I'm Adam</h1>
 <p align="center">
   <a href="https://ap3008.dev" target="_blank">
     <img
       src="./assets/readme_wallpaper.png"
       alt="Wallpaper"
-      width="340"
-      style="border-radius: 16px; vertical-align: middle; margin-right: 18px;"
+      width="360"
+      style="border-radius:16px; vertical-align:middle; margin-right:20px;"
     />
-    <img src="https://github-readme-streak-stats-eight-theta.vercel.app?user=ap3008&hide_border=true&background=191724&border=26233a&ring=c4a7e7&fire=eb6f92&currStreakNum=ebbcba&sideNums=9ccfd8&currStreakLabel=e0def4&sideLabels=e0def4&dates=6e6a86&include_all_commits=true" alt="GitHub Streak Stats" height="165" style="vertical-align: middle; border-radius: 16px;" />
+    <img
+      src="https://github-readme-streak-stats-eight-theta.vercel.app?user=ap3008&hide_border=true&background=transparent&ring=9ccfd8&fire=eb6f92&currStreakNum=ebbcba&sideNums=9ccfd8&currStreakLabel=6e6a86&sideLabels=6e6a86&dates=6e6a86&include_all_commits=true"
+      alt="GitHub Streak Stats"
+      width="360"
+      style="border-radius:16px; vertical-align:middle;"
+    />
   </a>
 </p>
+
 <p align="center">
   <a href="https://ap3008.dev" target="_blank">
     <img
@@ -17,5 +22,6 @@
       alt="Website Visit"
     />
   </a>
-  <p>Future 10,000x Engineer</p>
+  <br />
+  Check out <a href="https://ap3008.dev" target="_blank"><strong>my website</strong></a> to learn more about me
 </p>
