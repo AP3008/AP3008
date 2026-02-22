@@ -9,7 +9,7 @@
     <img
       src="https://github-readme-streak-stats-eight-theta.vercel.app?user=ap3008&hide_border=true&background=transparent&ring=9ccfd8&fire=eb6f92&currStreakNum=ebbcba&sideNums=9ccfd8&currStreakLabel=6e6a86&sideLabels=6e6a86&dates=6e6a86&include_all_commits=true"
       alt="GitHub Streak Stats"
-      width="720"
+      width="480"
       style="border-radius:16px; vertical-align:middle;"
     />
   </a>
