@@ -5,7 +5,7 @@
          width="310" 
          style="border-radius: 15px; vertical-align: middle; margin-right: 10px;" />
     
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ap3008&theme=rose-pine&hide_border=true&background=191724&text=ebbcba&sideNums=eb6f92&sideLabels=31748f&dates=908caa" 
+    <img src="https://github-readme-streak-stats-eight-theta.vercel.app/?user=ap3008&theme=rose-pine&hide_border=true" 
          alt="GitHub Streak" 
          style="vertical-align: middle;" />
   </a>
