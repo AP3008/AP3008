@@ -14,6 +14,11 @@
     />
   </a>
 </p>
+<p align="center">
+  <a href="https://invite.duolingo.com/BDHTZTB5CWWKTYZZH62QWNMPXA" target="_blank">
+    <img src="https://duolingo-api-five.vercel.app/user/svg/APE3MP" alt="Duolingo Streak" width=360 style="border-radius:16px;">
+  </a>
+</p>
 
 <p align="center">
   <a href="https://ap3008.dev" target="_blank">
