@@ -50,7 +50,7 @@
   </a>
   
   <br><br>
-  <img width="550" src="./assets/city.gif"></img>
+  <img width="525" src="./assets/city.gif"></img>
 </div>
 
 <div align="center">
