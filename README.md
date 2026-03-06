@@ -18,10 +18,10 @@
   
   <div align="center">
   <a href="https://github.com/AP3008" target="_blank">
-    <img title="Total profile views" src="https://komarev.com/ghpvc/?username=AP3008&color=ebbcba&style=for-the-badge" alt="Profile Views"></img>
-    <img alt="Total Stars" title="Total stars on GitHub" src="https://img.shields.io/github/stars/AP3008?style=for-the-badge&label=Stars&color=31748f&logo=github&logoColor=e0def4" /></img>
-    <img alt="Followers" title="Follow me on GitHub" src="https://img.shields.io/github/followers/AP3008?style=for-the-badge&label=Followers&color=c4a7e7&logo=github&logoColor=e0def4" /></a>
-    <img src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=fork&color=f6c177&labelColor=26233a&logoColor=e0def4&label=Forks&style=for-the-badge&query=%24.forks&refresh=1&url=https://api.github-star-counter.workers.dev/user/AP3008" /></a>
+    <img title="Total profile views" src="https://komarev.com/ghpvc/?username=AP3008&color=ebbcba&labelColor=191724&style=for-the-badge" alt="Profile Views"></img>
+    <img alt="Total Stars" title="Total stars on GitHub" src="https://img.shields.io/github/stars/AP3008?style=for-the-badge&label=Stars&labelColor=191724&color=31748f&logo=github&logoColor=e0def4" /></img>
+    <img alt="Followers" title="Follow me on GitHub" src="https://img.shields.io/github/followers/AP3008?style=for-the-badge&label=Followers&labelColor=191724&color=c4a7e7&logo=github&logoColor=e0def4" /></a>
+    <img src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=fork&color=f6c177&labelColor=191724&logoColor=e0def4&label=Forks&style=for-the-badge&query=%24.forks&refresh=1&url=https://api.github-star-counter.workers.dev/user/AP3008" /></a>
   </a>
 </div>
 
@@ -44,7 +44,7 @@
 <div align="center">
   <a href="https://ap3008.dev" target="_blank">
     <img
-      src="https://img.shields.io/badge/Check%20out%20my-Portfolio!-ebbcba?style=for-the-badge&labelColor=31748f&color=ebbcba&logo=browser&logoColor=e0def4"
+      src="https://img.shields.io/badge/Check%20out%20my-Portfolio!-ebbcba?style=for-the-badge&labelColor=191724&color=ebbcba&logo=browser&logoColor=e0def4"
       alt="Website Visit"
     />
   </a>
@@ -56,7 +56,7 @@
 <div align="center">
   <h3>Check out my stats</h3>
   
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=AP3008&show_icons=true&hide_border=true&title_color=ebbcba&icon_color=31748f&text_color=e0def4&bg_color=00000000&count_private=true&rank_icon=github" />
+  <img width="400" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=AP3008&count_private=true&show_icons=true&rank_icon=github&border_radius=8&bg_color=00000000&title_color=ebbcba&icon_color=31748f&text_color=e0def4&hide_border=true" />
   
   <img width="400" src="https://github-readme-streak-stats-eight-theta.vercel.app?user=AP3008&theme=rose_pine&hide_border=true&background=00000000&ring=9ccfd8&fire=eb6f92&currStreakNum=ebbcba&sideNums=9ccfd8&currStreakLabel=6e6a86&sideLabels=6e6a86&dates=6e6a86" alt="GitHub Streak Stats" />
 
