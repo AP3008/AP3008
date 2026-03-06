@@ -50,10 +50,11 @@
   </a>
   
   <br><br>
-  <img width="525" src="./assets/city.gif"></img>
+  <img style="display: flex; justify-content: flex-end; align-items: center;" width="500" src="./assets/city.gif"></img>
 </div>
 
 <div align="center">
+  
   <h3>Check out my stats</h3>
   
   <img width="400" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=AP3008&count_private=true&show_icons=true&rank_icon=github&border_radius=8&bg_color=00000000&title_color=ebbcba&icon_color=31748f&text_color=e0def4&hide_border=true" />
