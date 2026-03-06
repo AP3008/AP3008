@@ -19,10 +19,10 @@
   />
   <div align="center">
   <a href="https://github.com/AP3008" target="_blank">
-    <img title="Total profile views" src="https://komarev.com/ghpvc/?username=AP3008&color=ebbcba&labelColor=191724&style=for-the-badge" alt="Profile Views"></img>
-    <img alt="Total Stars" title="Total stars on GitHub" src="https://img.shields.io/github/stars/AP3008?style=for-the-badge&label=Stars&labelColor=191724&color=31748f&logo=github&logoColor=e0def4" /></img>
-    <img alt="Followers" title="Follow me on GitHub" src="https://img.shields.io/github/followers/AP3008?style=for-the-badge&label=Followers&labelColor=191724&color=c4a7e7&logo=github&logoColor=e0def4" /></a>
-    <img src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=fork&color=f6c177&labelColor=191724&logoColor=e0def4&label=Forks&style=for-the-badge&query=%24.forks&refresh=1&url=https://api.github-star-counter.workers.dev/user/AP3008" /></a>
+    <img width="125px" title="Total profile views" src="https://komarev.com/ghpvc/?username=AP3008&color=ebbcba&labelColor=191724&style=for-the-badge" alt="Profile Views"></img>
+    <img width="110px" alt="Total Stars" title="Total stars on GitHub" src="https://img.shields.io/github/stars/AP3008?style=for-the-badge&label=Stars&labelColor=191724&color=31748f&logo=github&logoColor=e0def4" /></img>
+    <img width="125px" alt="Followers" title="Follow me on GitHub" src="https://img.shields.io/github/followers/AP3008?style=for-the-badge&label=Followers&labelColor=191724&color=c4a7e7&logo=github&logoColor=e0def4" /></a>
+    <img width="110px" src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=fork&color=f6c177&labelColor=191724&logoColor=e0def4&label=Forks&style=for-the-badge&query=%24.forks&refresh=1&url=https://api.github-star-counter.workers.dev/user/AP3008" /></a>
   </a>
 </div>
 
