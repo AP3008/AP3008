@@ -50,7 +50,7 @@
   </a>
   
   <br><br>
-  <img style="display: flex; justify-content: flex-end; align-items: center;" width="500" src="./assets/city.gif"></img>
+  <img style="display: flex; justify-content: flex-end; align-items: center;" width="500" src="./assets/rainy-cyber.gif"></img>
 </div>
 
 <div align="center">
