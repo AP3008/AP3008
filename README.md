@@ -9,13 +9,14 @@
   </a>
 </div>
 
-<img 
+
+
+<div align="center">
+  <img 
   align="left" 
   src="./assets/rainy-long.gif"
-  width="350"
+  width="300"
   />
-<div align="center">
-  
   <div align="center">
   <a href="https://github.com/AP3008" target="_blank">
     <img title="Total profile views" src="https://komarev.com/ghpvc/?username=AP3008&color=ebbcba&labelColor=191724&style=for-the-badge" alt="Profile Views"></img>
@@ -51,7 +52,10 @@
   
   <br><br>
   <img style="display: flex; justify-content: flex-end; align-items: center;" width="500" src="./assets/rainy-cyber.gif"></img>
+
 </div>
+
+
 
 <div align="center">
   
