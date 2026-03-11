@@ -12,11 +12,14 @@
 
 
 <div align="center">
-  <img 
-  align="left" 
-  src="./assets/rainy-long.gif"
-  width="300"
-  />
+    <a href="https://ap3008.dev" target="_blank">
+      <img 
+      align="left" 
+      src="./assets/rainy-long.gif"
+      width="300"
+      />
+  </a>
+  
   <div align="center">
   <a href="https://github.com/AP3008" target="_blank">
     <img width="125px" title="Total profile views" src="https://komarev.com/ghpvc/?username=AP3008&color=ebbcba&labelColor=191724&style=for-the-badge" alt="Profile Views"></img>
@@ -51,7 +54,7 @@
   </a>
   
   <br><br>
-  <img style="display: flex; justify-content: flex-end; align-items: center;" width="500" src="./assets/rainy-cyber.gif"></img>
+  <a href="https://ap3008.dev" target="_blank"> <img style="display: flex; justify-content: flex-end; align-items: center;" width="500" src="./assets/rainy-cyber.gif"></img> </a>
 
 </div>
 
