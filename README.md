@@ -64,9 +64,9 @@
   
   <h3>Check out my stats</h3>
   
-  <img width="400" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=AP3008&count_private=true&show_icons=true&rank_icon=github&border_radius=8&bg_color=00000000&title_color=ebbcba&icon_color=31748f&text_color=e0def4&hide_border=true" />
+  <a href="https://github.com/AP3008"><img width="400" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=AP3008&count_private=true&show_icons=true&rank_icon=github&border_radius=8&bg_color=00000000&title_color=ebbcba&icon_color=31748f&text_color=e0def4&hide_border=true" /></a>
   
-  <img width="400" src="https://github-readme-streak-stats-eight-theta.vercel.app?user=AP3008&theme=rose_pine&hide_border=true&background=00000000&ring=9ccfd8&fire=eb6f92&currStreakNum=ebbcba&sideNums=9ccfd8&currStreakLabel=6e6a86&sideLabels=6e6a86&dates=6e6a86" alt="GitHub Streak Stats" />
+  <a href="https://github.com/AP3008"><img width="400" src="https://github-readme-streak-stats-eight-theta.vercel.app?user=AP3008&theme=rose_pine&hide_border=true&background=00000000&ring=9ccfd8&fire=eb6f92&currStreakNum=ebbcba&sideNums=9ccfd8&currStreakLabel=6e6a86&sideLabels=6e6a86&dates=6e6a86" alt="GitHub Streak Stats" /></a>
 
   <br>
 
